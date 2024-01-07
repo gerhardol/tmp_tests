@@ -1,0 +1,28 @@
+test
+of
+changes
+line with change one and two
+also three and four
+some
+unchanged
+lines
+lines
+lines
+other change one and two
+then three and four
+a1
+more unchanged
+c1 add some chars sothis line is not detected as the moved line
+c2 also done for this line. quite boring 
+line to be moved in block
+with more than 20 chars
+c3 some more text again and
+c4 again. Running out of some-
+c5 thing to write here....
+c6 last line last line last
+line to be deleted
+c7
+c8
+Whitespace changes in this line
+Added space after this line to show coloring 
+last line
